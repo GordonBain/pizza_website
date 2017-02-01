@@ -1,0 +1,29 @@
+body {
+background-color: tomato;
+}
+
+h1, p {
+  color: black;
+}
+
+a {
+  color:lightsteelblue;
+}
+
+a:visited{
+  color:black;
+}
+
+a:hover{
+  color:red;
+}
+
+a:active {
+  color:silver;
+}
+
+.order_details {
+background-color: white; 
+display:flex;
+justify-content: centre;
+}
